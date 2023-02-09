@@ -1,8 +1,8 @@
 {
-    "PrivateBin": "PrivateBin",
-    "%s is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted %sin the browser%s using 256 bits AES.": "A %s egy minimalista, nyílt forráskódú adattároló szoftver, ahol a szerver semmilyen információt nem tárol a feltett adatról. Azt ugyanis a %sböngésződ%s segítségével titkosítja és oldja fel 256 bit hosszú titkosítási kulcsú AES-t használva.",
-    "More information on the <a href=\"https://privatebin.info/\">project page</a>.": "További információt a <a href=\"https://privatebin.info/\">projekt oldalán</a> találsz.",
-    "Because ignorance is bliss": "A titok egyfajta hatalom.",
+    "PrivateBin": "titok.csi.pet",
+    "%s is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted %sin the browser%s using 256 bits AES.": "A %s egy minimalista titkosító szoftver, ahol a szerver semmilyen információt nem tárol a feltett adatról, azt ugyanis a %sböngésződ%s segítségével titkosítja és oldja fel 256 bit hosszú titkosítási kulcsú AES titkosítást használva.",
+    "More information on the <a href=\"https://privatebin.info/\">project page</a>.": "A $s jelenleg maximum 2 MB méretű fájl vagy maximum 100 oldal hosszúságú szöveg titkosított küldését biztosítja. Opciók: jelszavas védelem (a jelszót ajánlott külön csatornán küldeni - például telefonon megadni!), QR kód, megsemmisülési beállítások",
+    "Because ignorance is bliss": "A titok hatalom! Használd felelősséggel!",
     "en": "hu",
     "Paste does not exist, has expired or has been deleted.": "A bejegyzés nem létezik, lejárt vagy törölve lett.",
     "%s requires php %s or above to work. Sorry.": "Bocs, de a %s működéséhez %s vagy ezt meghaladó verziójú php-s környezet szükséges.",
